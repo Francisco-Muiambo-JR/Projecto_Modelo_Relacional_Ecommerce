@@ -24,7 +24,7 @@ O banco de dados `Ecommerce` é composto pelas seguintes tabelas:
 
 ## Scripts Disponíveis
 
-- [Criação do Banco de Dados e Tabelas](./scripts/create_database.sql)
+- [Criação do Banco de Dados e Tabelas]([./scripts/create_database.sql](https://github.com/Francisco-Muiambo-JR/Projecto_Modelo_Relacional_Ecommerce/blob/main/Project%20Ecommerce/Consult_Ecommerce.sql))
 - [Inserção de Dados](./scripts/insert_data.sql)
 - [Consultas SQL](./scripts/queries.sql)
 
